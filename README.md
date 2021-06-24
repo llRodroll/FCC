@@ -11,5 +11,8 @@ Codes from Free Code Camp tutorials
 
 ## Basic CSS
 
-* Create properties and clases for elements
-* Font size, Font, Family, Size of images, etc..
+* Create properties and clases for elements.
+* Font size, Font, Family, Size of images, etc...
+* Id's and classes.
+* Editing padding and margin.
+* Attributes

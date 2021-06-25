@@ -1,0 +1,10 @@
+<!--
+  "Body" element of HTML. Here we make the background color of the body black.
+-->
+
+<style>
+  body {
+    background-color: black;
+  }
+
+</style>

@@ -1,0 +1,16 @@
+<!--
+  When you set a class to an element it will override the "body" property in that specific class.
+  Here, the pink text in h1 overrides the green text given by "body".
+-->
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+</style>
+<h1 class="pink-text">Hello World!</h1>

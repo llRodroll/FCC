@@ -1,0 +1,13 @@
+<!--
+  One way to represent colors is called hexadecimal code, or hex code for short.
+
+ Hexadecimals (or hex) are base 16 numbers. This means it uses sixteen distinct symbols. The symbols 0-9 represent the values zero to nine. Then A,B,C,D,E,F represent the values ten to fifteen. Altogether, 0 to F can represent a digit in hexadecimal, giving us 16 total possible values. 
+
+We can use 6 hex digits to represent colors, two each for the red (R), green (G), and blue (B) components. For example, #000000 is black and is also the lowest possible value.
+-->
+
+<style>
+  body {
+    background-color: #000000;
+  }
+</style>

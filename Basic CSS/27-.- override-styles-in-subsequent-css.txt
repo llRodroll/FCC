@@ -1,0 +1,19 @@
+<!--
+  The order of the declarations in "style" matters. The last declarations take precedence over the previous.
+  Here, blue text takes precedence over pink text. The order in "class=xxx" does not matter. 
+-->
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+  .blue-text {
+    color: blue
+  }
+</style>
+<h1 class="pink-text blue-text">Hello World!</h1>

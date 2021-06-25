@@ -1,0 +1,18 @@
+<!--
+  Compatibility issues. For example, Internet Explorer does not support CSS variable. Meaning that it will fallback to whatever value it has for that property. 
+  Hence, one way to avoid this issues is to set a general fallback value that is supported for IE or even older browser.
+-->
+
+
+<style>
+  :root {
+    --red-color: red;
+  }
+  .red-box {
+    background: red;
+    background: var(--red-color);
+    height: 200px;
+    width:200px;
+  }
+</style>
+<div class="red-box"></div>

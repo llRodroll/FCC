@@ -16,3 +16,4 @@ Codes from Free Code Camp tutorials
 * Id's and classes.
 * Editing padding and margin.
 * Attributes
+* Overriding CSS attributes with id and inline

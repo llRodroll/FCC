@@ -1,4 +1,4 @@
-# FCC
+# Responsive Web Design
 Codes from Free Code Camp tutorials
 
 ## Basic HTML

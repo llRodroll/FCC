@@ -18,3 +18,5 @@ Codes from Free Code Camp tutorials
 * Attributes
 * Overriding CSS attributes with id and inline
 * : roots
+
+## Applied Visual Design
